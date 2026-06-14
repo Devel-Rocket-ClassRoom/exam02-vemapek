@@ -1,0 +1,5 @@
+깃허브 주소 : 
+https://github.com/Devel-Rocket-ClassRoom/exam02-vemapek.git
+
+실행파일 다운로드 주소:
+https://github.com/Devel-Rocket-ClassRoom/exam02-vemapek/raw/refs/heads/main/%EA%B3%BD%EC%9D%B8%EC%9A%B0_LIke_poke.zip
