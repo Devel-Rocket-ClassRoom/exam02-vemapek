@@ -37,7 +37,10 @@ int main()
     player.Active = starter;
 
     cout << "\n" << starterName << " 을(를) 선택했다!" << endl;
-
+    
+    //for (int i = 0; i < 9; i++)
+    //    player.Pokedex[i] = true;
+    //player.PokedexCount = 9;
 
     // 맵 탐험 시작
     MapSystem map;
