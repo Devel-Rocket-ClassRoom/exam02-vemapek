@@ -1,7 +1,7 @@
 #pragma once
 #include "Creature.h"
 
-// 데이터 매니저 클래스 - 크리처 생성 및 데이터 관리 (모든 메서드 정적)
+// 데이터 매니저 클래스 - 크리처 생성 및 데이터 관리
 class DataManager
 {
 public:
